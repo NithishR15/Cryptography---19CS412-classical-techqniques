@@ -566,7 +566,7 @@ Implementation using C or pyhton code
 Step 3:
 Testing algorithm with different key values. ALGORITHM DESCRIPTION: In the rail fence cipher, the plaintext is written downwards and diagonally on successive "rails" of an imaginary fence, then moving up when we reach the bottom rail. When we reach the top rail, the message is written downwards again until the whole plaintext is written out. The message is then read off in rows.
 
-##PROGRAM:
+## PROGRAM:
 ```
 #include <stdio.h>
 #include <string.h>
