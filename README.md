@@ -540,10 +540,10 @@ void decipher() {
     printf("\n");  // Added newline for output formatting
 }
 ```
-##OUTPUT:
+## OUTPUT:
 ![Screenshot 2024-09-02 110656](https://github.com/user-attachments/assets/78db349a-12e2-4995-bd4d-4f0fec413f19)
 
-##RESULT:
+## RESULT:
 The program Vigenere Cipher are executed successfully
 
 
@@ -674,10 +674,10 @@ int main() {
     return 0;
 }
 ```
-##OUTPUT:
+## OUTPUT:
 ![Screenshot 2024-09-02 111546](https://github.com/user-attachments/assets/a119677e-5fea-48c7-b621-f7bdbc4ac943)
 
-##RESULT:
+## RESULT:
 The program Rail Fence Cipher are executed successfully
 
 
