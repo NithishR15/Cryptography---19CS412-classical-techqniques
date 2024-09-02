@@ -306,10 +306,10 @@ int main() {
 The program for PlayFair Cipher is created sucessfully.
 
 
-# Hill Cipher
+## Hill Cipher
 Hill Cipher using with different key values
 
-# AIM:
+## AIM:
 
 To develop a simple C program to implement Hill Cipher.
 
@@ -449,17 +449,17 @@ The program hill cipher are executed successfully
 Vigenere Cipher
 Vigenere Cipher using with different key values
 
-AIM:
+## AIM:
 To develop a simple C program to implement Vigenere Cipher.
 
-DESIGN STEPS:
-Step 1:
+## DESIGN STEPS:
+## Step 1:
 Design of Vigenere Cipher algorithnm
 
-Step 2:
+## Step 2:
 Implementation using C or pyhton code
 
-Step 3:
+## Step 3:
 Testing algorithm with different key values. ALGORITHM DESCRIPTION: The Vigenere cipher is a method of encrypting alphabetic text by using a series of different Caesar ciphers based on the letters of a keyword. It is a simple form of polyalphabetic substitution.To encrypt, a table of alphabets can be used, termed a Vigenere square, or Vigenere table. It consists of the alphabet written out 26 times in different rows, each alphabet shifted cyclically to the left compared to the previous alphabet, corresponding to the 26 possible Caesar ciphers. At different points in the encryption process, the cipher uses a different alphabet from one of the rows used. The alphabet at each point depends on a repeating keyword.
 
 ## PROGRAM:
@@ -550,20 +550,20 @@ The program Vigenere Cipher are executed successfully
 
 
 
-Rail Fence Cipher
+## Rail Fence Cipher
 Rail Fence Cipher using with different key values
 
-AIM:
+## AIM:
 To develop a simple C program to implement Rail Fence Cipher.
 
-DESIGN STEPS:
-Step 1:
+## DESIGN STEPS:
+## Step 1:
 Design of Rail Fence Cipher algorithnm
 
-Step 2:
+## Step 2:
 Implementation using C or pyhton code
 
-Step 3:
+## Step 3:
 Testing algorithm with different key values. ALGORITHM DESCRIPTION: In the rail fence cipher, the plaintext is written downwards and diagonally on successive "rails" of an imaginary fence, then moving up when we reach the bottom rail. When we reach the top rail, the message is written downwards again until the whole plaintext is written out. The message is then read off in rows.
 
 ## PROGRAM:
